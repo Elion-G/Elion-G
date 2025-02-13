@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** specializing in **web development, big d
 - **Web Development:** Proficient in **Laravel** and **Vue 3** for creating modern, scalable applications.
 - **Big Data & AI:** Experienced in data analysis, machine learning, and automation using **Python**.
 - **Automation & Bots:** Developing scripts and bots for process automation.
-- **Freelancing:** Running my own business, **"elingon"**, providing high-quality software solutions.
+- **Freelancing:** Leading "elingon", a team dedicated to providing high-quality software solutions.
 - **Server Management:** Managing and optimizing **Ubuntu** servers for deployment and scalability.
 
 # 🚀 Tech Stack Icons
