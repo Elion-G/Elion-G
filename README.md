@@ -63,6 +63,13 @@ I'm a passionate **Software Developer** specializing in **web development, big d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 </div>
 
+## 🖥️ Operating Systems
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" />
+</div>
+
 ## 📫 Let's Connect
 - **GitHub:** [Elion-G](https://github.com/Elion-G)
 - **LinkedIn:** [Elias Gonzalez](https://www.linkedin.com/in/elias-gonzález-a9a967205)
