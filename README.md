@@ -20,9 +20,9 @@ I'm a passionate **Software Developer** specializing in **web development, big d
 - **AI & Big Data:** Pandas, NumPy, TensorFlow, Scikit-learn
 
 ## 📫 Let's Connect
-- **GitHub:** [Your GitHub Profile](https://github.com/Elion-G)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/elias-gonzález-a9a967205)
-- **Website:** [Your Portfolio](https://elingon.com)
+- **GitHub:** [Elion-G](https://github.com/Elion-G)
+- **LinkedIn:** [Elias Gonzalez](https://www.linkedin.com/in/elias-gonzález-a9a967205)
+- **Website:** [elingon.com](https://elingon.com)
 
 📌 Always open to collaboration and exciting projects!
 
